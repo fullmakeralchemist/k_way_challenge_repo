@@ -46,7 +46,7 @@ An intelligent device to track moves with responses during in a interactive spac
 <!-- Content of the repository -->
 ## Content of the repository
 
-"Welcome to my repository on GitHub! This repository has been created specifically for the purpose of saving and organizing the codes for the Arduino K-way Challenge.
+Welcome to my repository on GitHub! This repository has been created specifically for the purpose of saving and organizing the codes for the Arduino K-way Challenge.
 
 The Arduino K-way Challenge is a competition aimed at encouraging innovation and creativity in the use of the Arduino platform. Participants are tasked with creating projects that utilize the capabilities of the Arduino Nicla Sense ME board in unique and interesting ways.
 
@@ -54,4 +54,4 @@ In this repository, you will find the codes developed for my project submission 
 
 If you're interested in learning more about the Arduino K-way Challenge or developing projects using the Arduino platform, this repository is a great starting point. Feel free to explore the code and use it as a resource for your own projects.
 
-Thank you for visiting my repository. I hope you find it useful!"
+Thank you for visiting my repository. I hope you find it useful!
