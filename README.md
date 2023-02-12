@@ -1,5 +1,5 @@
 <!--#     The TensorFlow Microcontroller Challenge    -->
-   <h1>🤖:robot: :mechanical_arm: Tiny ML in interactive spaces code repo :mechanical_arm: :robot:🤖</h1>
+   <h1>:robot: :mechanical_arm: Tiny ML in interactive spaces code repo :mechanical_arm: :robot:</h1>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -29,7 +29,7 @@
   </p>
   <p align="center">
   <a href="https://projecthub.arduino.cc/projects/">
-    [comment]: <img src="assets/TFChallengeWinners.png" alt="Logo" width="720">
+    [comment]:<img src="assets/TFChallengeWinners.png" alt="Logo" width="720">
   </a>
   </p>
   <br />
