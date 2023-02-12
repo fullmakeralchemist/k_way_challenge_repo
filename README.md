@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://projecthub.arduino.cc/projects/">
-    <img src="intro/logo.png" alt="Logo" width="720">
+    <img src="assets/intro.png" alt="Logo" width="720">
   </a>
   <br />
 
